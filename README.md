@@ -12,7 +12,7 @@ Now from here you’ll have to find the “Universal Render Pipeline Asset_Rende
 
 Note this should be the preexisting “Universal Render Pipeline Asset_Render” not the one included in the package
 
-
+![Screenshot (9)](https://user-images.githubusercontent.com/91532021/165271037-ade205e1-dca5-4017-9009-e2aeb8814b63.png)
 
 From here you add a new material and set the shader as shadergraph/simpleOutLines
 There are a few main variables to keep in mind these are 
